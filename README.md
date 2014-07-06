@@ -1,8 +1,8 @@
-## iCarrier :iphone:
+## iCarrier
 
-iCarrier is a mobile substrate extension for the iPhone and iPad that allows you to change your device's carrier name to any text or emoji you would like. I would expect iCarrier to be compatible with any GSM or CDMA device running IOS 4.2.1 or greater. Unfortunately I would not expect it to be compatible with any none cellular device, i.e. iPod Touches, however I do not own an iPod Touch so I could be wrong.
+iCarrier is a Mobile Substrate extension for the iPhone and iPad that allows you to change your device's carrier name to any text or emoji you would like. I would expect iCarrier to be compatible with any GSM or CDMA device running IOS 4.2.1 or greater. Unfortunately I would not expect it to be compatible with any none cellular device, i.e. iPod Touches, however I do not own an iPod Touch so I could be wrong.
 
-You must be jailbroken to install iCarrier! If you are interested in jailbreaking an official jailbreak is available for IOS 7.0.x at http://evasi0n.com. Furthermore, a 7.1.x jailbreak has been released by a team of security researchers and is available at http://en.pangu.io.
+You must be jailbroken to install iCarrier! If you are interested in jailbreaking an official jailbreak is available for IOS 7.0.x at http://evasi0n.com. Furthermore a 7.1.x jailbreak has been released by a team of security researchers and is available at http://en.pangu.io.
 
 **Depends**
 
