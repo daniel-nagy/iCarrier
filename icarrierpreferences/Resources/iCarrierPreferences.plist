@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>title</key>
+		<string>iCarrier</string>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>cell</key>
+				<string>PSSwitchCell</string>
+				<key>default</key>
+				<true/>
+				<key>defaults</key>
+				<string>com.danny.iCarrierPreferences</string>
+				<key>key</key>
+				<string>toggleSwitch</string>
+				<key>label</key>
+				<string>iCarrier</string>
+				<key>PostNotification</key>
+				<string>preferencesUpdated</string>
+			</dict>
+			<dict>
+				<key>cell</key>
+				<string>PSEditTextCell</string>
+				<key>placeholder</key>
+				<string>Carrier</string>
+				<key>defaults</key>
+				<string>com.danny.iCarrierPreferences</string>
+				<key>key</key>
+				<string>carrierName</string>
+				<key>label</key>
+				<string>Carrier Name:</string>
+				<key>PostNotification</key>
+				<string>preferencesUpdated</string>
+			</dict>
+			<dict>
+				<key>cell</key>
+				<string>PSGroupCell</string>
+				<key>footerText</key>
+				<string>Curious how it works? Visit https://github.com/daniel-nagy/iCarrier</string>
+			</dict>
+			<dict>
+				<key>cell</key>
+				<string>PSButtonCell</string>
+				<key>icon</key>
+				<string>Twitter</string>
+				<key>label</key>
+				<string>Follow me on Twitter!</string>
+				<key>alignment</key>
+				<integer>2</integer>
+				<key>action</key>
+				<string>getTwitterURL</string>
+			</dict>
+		</array>
+	</dict>
+</plist>

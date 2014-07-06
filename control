@@ -1,0 +1,9 @@
+Package: com.danny.iCarrier
+Name: iCarrier
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Change your device's carrier name!
+Maintainer: Daniel Nagy
+Author: Daniel Nagy
+Section: Tweaks

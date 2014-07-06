@@ -1,0 +1,10 @@
+{
+  entry = {
+    bundle = iCarrierPreferences;
+    cell = PSLinkCell;
+    detail = iCarrierPreferencesListController;
+    icon = iCarrier.png;
+    isController = 1;
+    label = iCarrier;
+  };
+}
